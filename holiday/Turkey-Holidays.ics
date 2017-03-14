@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Turkey Holidays
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170101
+DTEND;VALUE=DATE:20170102
+DTSTAMP:20111213T124028Z
+UID:a84e19e5268bf01623c8a1308@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170423
+DTEND;VALUE=DATE:20170424
+DTSTAMP:20111213T124028Z
+UID:b17ad0a0562b88173f8182534@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/turkey/national-sovereignty-childrens-day.php to know more about National Sovereignty and Children's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:National Sovereignty and Children's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170501
+DTEND;VALUE=DATE:20170502
+DTSTAMP:20111213T124028Z
+UID:7fed56b0bdd91520d5830a0e9@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/uk/may-day.php to know more about Labour and Solidarity Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Labour and Solidarity Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170519
+DTEND;VALUE=DATE:20170520
+DTSTAMP:20111213T124028Z
+UID:0e3b073cb6b84539b594643b2@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/turkey/ataturk-youth-and-sports-day.php to know more about Commemoration of Ataturk, Youth and Sports Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Commemoration of Ataturk, Youth and Sports Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170626
+DTEND;VALUE=DATE:20170627
+DTSTAMP:20111213T124028Z
+UID:3c9efd23d4eb3ffaf3a7fed19@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Ramadan Feast. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ramadan Feast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170627
+DTEND;VALUE=DATE:20170628
+DTSTAMP:20111213T124028Z
+UID:c2bc106f27bd1249bb299abfb@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Ramadan Feast Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ramadan Feast Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170628
+DTEND;VALUE=DATE:20170629
+DTSTAMP:20111213T124028Z
+UID:f2fbc7cb267e7dce238c1df76@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Ramadan Feast Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ramadan Feast Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170830
+DTEND;VALUE=DATE:20170831
+DTSTAMP:20111213T124028Z
+UID:fa96729d7e79d06df052b11e2@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/turkey/victory-day.php to know more about Victory Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Victory Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171029
+DTEND;VALUE=DATE:20171030
+DTSTAMP:20111213T124028Z
+UID:38c50d7151e1cd2d16ca86dae@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/turkey/republic-day.php to know more about Republic Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Republic Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170901
+DTEND;VALUE=DATE:20170902
+DTSTAMP:20111213T124028Z
+UID:4e037e9a8e3746b91711cf9d4@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Sacrifice Feast. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sacrifice Feast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170902
+DTEND;VALUE=DATE:20170903
+DTSTAMP:20111213T124028Z
+UID:32f44a39a714fb5aea1471742@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Sacrifice Feast. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sacrifice Feast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170903
+DTEND;VALUE=DATE:20170904
+DTSTAMP:20111213T124028Z
+UID:178566ec64c8f0d6292da3032@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Sacrifice Feast. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sacrifice Feast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170904
+DTEND;VALUE=DATE:20170905
+DTSTAMP:20111213T124028Z
+UID:27616038f53cd5faaa39e6ab0@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Sacrifice Feast. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sacrifice Feast
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

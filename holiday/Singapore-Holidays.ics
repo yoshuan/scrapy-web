@@ -1,0 +1,358 @@
+BEGIN:VCALENDAR
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Singapore Holidays
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161225
+DTEND;VALUE=DATE:20161226
+DTSTAMP:20111213T124028Z
+UID:e6adb4cabfe8e405f9664fc3c@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160912
+DTEND;VALUE=DATE:20160913
+DTSTAMP:20111213T124028Z
+UID:11874c03a2c14d52c72beec57@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Hari Raya Haji. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hari Raya Haji
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161030
+DTEND;VALUE=DATE:20161031
+DTSTAMP:20111213T124028Z
+UID:2a152cc6bb56d3702f4708d84@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/india/diwali.php to know more about Deepavali / Diwali. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Deepavali / Diwali
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160706
+DTEND;VALUE=DATE:20160707
+DTSTAMP:20111213T124028Z
+UID:65305e815b5cefeac4c7ad8b9@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Hari Raya Puasa (Day 1). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hari Raya Puasa (Day 1)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160809
+DTEND;VALUE=DATE:20160810
+DTSTAMP:20111213T124028Z
+UID:e326200f2fa9f91c235cea338@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/national-day.php to know more about National Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:National Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160521
+DTEND;VALUE=DATE:20160522
+DTSTAMP:20111213T124028Z
+UID:eed30d9dd49281c97fecd7ef4@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/vesak-day.php to know more about Vesak Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vesak Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160501
+DTEND;VALUE=DATE:20160502
+DTSTAMP:20111213T124028Z
+UID:4a0ffada416cae442e2fd06e5@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/uk/may-day.php to know more about Labor day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Labor day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160326
+DTSTAMP:20111213T124028Z
+UID:e5c5ac2eb4c9708401bb9a1b7@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160209
+DTEND;VALUE=DATE:20160210
+DTSTAMP:20111213T124028Z
+UID:8bd83720e48672e7ece0ef32c@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/china/chinese-new-year.php to know more about 2nd day of Chinese New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:2nd day of Chinese New Year
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160208
+DTEND;VALUE=DATE:20160209
+DTSTAMP:20111213T124028Z
+UID:48638b75eeb156f3a21fd72af@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Chinese New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chinese New Year
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+DTSTAMP:20111213T124028Z
+UID:fd2b00fb0d1c1f6f705ca8d10@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170101
+DTEND;VALUE=DATE:20170102
+DTSTAMP:20111213T124028Z
+UID:a84e19e5268bf01623c8a1308@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170128
+DTEND;VALUE=DATE:20170129
+DTSTAMP:20111213T124028Z
+UID:619ef469a0d57ca6560f72e5e@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Chinese New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chinese New Year
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170129
+DTEND;VALUE=DATE:20170130
+DTSTAMP:20111213T124028Z
+UID:ac4aa92920e2996df641683ed@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/china/chinese-new-year.php to know more about 2nd day of Chinese New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:2nd day of Chinese New Year
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170414
+DTEND;VALUE=DATE:20170415
+DTSTAMP:20111213T124028Z
+UID:221cfd77e0a7cb503cda5b158@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170501
+DTEND;VALUE=DATE:20170502
+DTSTAMP:20111213T124028Z
+UID:7fed56b0bdd91520d5830a0e9@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/uk/may-day.php to know more about Labor day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Labor day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170510
+DTEND;VALUE=DATE:20170511
+DTSTAMP:20111213T124028Z
+UID:46d43574983f2eddb5876ba43@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/vesak-day.php to know more about Vesak Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vesak Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170809
+DTEND;VALUE=DATE:20170810
+DTSTAMP:20111213T124028Z
+UID:ce648d0f9793cbcf315512f48@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/national-day.php to know more about National Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:National Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170625
+DTEND;VALUE=DATE:20170626
+DTSTAMP:20111213T124028Z
+UID:5801a41b435fd71d2dd944fd4@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Hari Raya Puasa. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hari Raya Puasa
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171018
+DTEND;VALUE=DATE:20171019
+DTSTAMP:20111213T124028Z
+UID:8a65f97faa826787b55eebaee@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/india/diwali.php to know more about Deepavali / Diwali. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Deepavali / Diwali
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170901
+DTEND;VALUE=DATE:20170902
+DTSTAMP:20111213T124028Z
+UID:4e037e9a8e3746b91711cf9d4@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Hari Raya Haji. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hari Raya Haji
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171225
+DTEND;VALUE=DATE:20171226
+DTSTAMP:20111213T124028Z
+UID:7bd1ac335e2576e39a0e4d36b@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Christmas Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170102
+DTEND;VALUE=DATE:20170103
+DTSTAMP:20111213T124028Z
+UID:00d1c2fe52c60461aca04c1b6@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New Year's Day Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170130
+DTEND;VALUE=DATE:20170131
+DTSTAMP:20111213T124028Z
+UID:8ea54abf9456b59686e025f2b@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Chinese New Year Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chinese New Year Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170626
+DTEND;VALUE=DATE:20170627
+DTSTAMP:20111213T124028Z
+UID:3c9efd23d4eb3ffaf3a7fed19@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Hari Raya Puasa Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hari Raya Puasa Holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

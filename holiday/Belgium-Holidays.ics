@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Belgium Holidays
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171225
+DTEND;VALUE=DATE:20171226
+DTSTAMP:20111213T124028Z
+UID:7bd1ac335e2576e39a0e4d36b@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/christmas.php to know more about Christmas. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Christmas
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171111
+DTEND;VALUE=DATE:20171112
+DTSTAMP:20111213T124028Z
+UID:30fdfe5f53337e9eefc5f6c0c@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/france/armistice-day.php to know more about Armistice Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Armistice Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171101
+DTEND;VALUE=DATE:20171102
+DTSTAMP:20111213T124028Z
+UID:118ba0724e7a6af91ba29a22e@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/philippines/all-saints-day.php to know more about All Saints' Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:All Saints' Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170815
+DTEND;VALUE=DATE:20170816
+DTSTAMP:20111213T124028Z
+UID:31fa02864c1e0261a829d209e@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/the-assumption-of-mary.php to know more about Assumption of Mary. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Assumption of Mary
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170605
+DTEND;VALUE=DATE:20170606
+DTSTAMP:20111213T124028Z
+UID:0fd9a09c7b5508159601e71df@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/germany/pentecost-monday.php to know more about Whit Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Whit Monday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170604
+DTEND;VALUE=DATE:20170605
+DTSTAMP:20111213T124028Z
+UID:04414c83a24338b88fe90bdee@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/france/whit-sunday.php to know more about Whit Sunday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Whit Sunday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170525
+DTEND;VALUE=DATE:20170526
+DTSTAMP:20111213T124028Z
+UID:1375f90bef34044466ba02c38@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/romania/ascension-day.php to know more about Ascension Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ascension Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170501
+DTEND;VALUE=DATE:20170502
+DTSTAMP:20111213T124028Z
+UID:7fed56b0bdd91520d5830a0e9@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day / May Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Labor Day / May Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170417
+DTEND;VALUE=DATE:20170418
+DTSTAMP:20111213T124028Z
+UID:2279024181132f144aee7a620@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Easter Monday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170721
+DTEND;VALUE=DATE:20170722
+DTSTAMP:20111213T124028Z
+UID:4b434de3276a84fe8f3aa9f2a@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/belgium/belgian-national-day.php to know more about Belgian National Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Belgian National Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170101
+DTEND;VALUE=DATE:20170102
+DTSTAMP:20111213T124028Z
+UID:a84e19e5268bf01623c8a1308@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New Year's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170414
+DTEND;VALUE=DATE:20170415
+DTSTAMP:20111213T124028Z
+UID:221cfd77e0a7cb503cda5b158@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170416
+DTEND;VALUE=DATE:20170417
+DTSTAMP:20111213T124028Z
+UID:2375a0459dfb301ced80e8c32@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/us/easter.php to know more about Easter. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Easter
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

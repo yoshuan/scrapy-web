@@ -1,0 +1,484 @@
+BEGIN:VCALENDAR
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Egypt Holidays
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160107
+DTEND;VALUE=DATE:20160108
+DTSTAMP:20111213T124028Z
+UID:3b07ed8906f496f99e71a4ced@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/coptic-christmas.php to know more about Coptic Christmas. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coptic Christmas
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160125
+DTEND;VALUE=DATE:20160126
+DTSTAMP:20111213T124028Z
+UID:c51d653928b15434718bf3e14@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/revolution-day-january-25.php to know more about Revolution Day January 25. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Revolution Day January 25
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160425
+DTEND;VALUE=DATE:20160426
+DTSTAMP:20111213T124028Z
+UID:db94e5c8a1800e151df299817@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/sinai-liberation-day.php to know more about Sinai Liberation Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sinai Liberation Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160501
+DTEND;VALUE=DATE:20160502
+DTSTAMP:20111213T124028Z
+UID:4a0ffada416cae442e2fd06e5@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/coptic-easter.php to know more about Coptic Easter Sunday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coptic Easter Sunday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160501
+DTEND;VALUE=DATE:20160502
+DTSTAMP:20111213T124028Z
+UID:4a0ffada416cae442e2fd06e5@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Labor Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160502
+DTEND;VALUE=DATE:20160503
+DTSTAMP:20111213T124028Z
+UID:50c263647a032078f9635529e@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/sham-el-nessim.php to know more about Sham El Nessim (Spring festival). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sham El Nessim (Spring festival)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160707
+DTEND;VALUE=DATE:20160708
+DTSTAMP:20111213T124028Z
+UID:695686f8bb62fd680e0fdc555@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about End of Ramadan. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:End of Ramadan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160708
+DTEND;VALUE=DATE:20160709
+DTSTAMP:20111213T124028Z
+UID:bc4125c579c48621a2a640a94@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about End of Ramadan Day 2. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:End of Ramadan Day 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160709
+DTEND;VALUE=DATE:20160710
+DTSTAMP:20111213T124028Z
+UID:0008ac3f041fb8698841497b9@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about End of Ramadan Day 3. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:End of Ramadan Day 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160723
+DTEND;VALUE=DATE:20160724
+DTSTAMP:20111213T124028Z
+UID:b72fb09a1a209cb0ad0ed8b48@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/revolution-day.php to know more about Revolution Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Revolution Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160912
+DTEND;VALUE=DATE:20160913
+DTSTAMP:20111213T124028Z
+UID:11874c03a2c14d52c72beec57@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid al-Adha. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid al-Adha
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160913
+DTEND;VALUE=DATE:20160914
+DTSTAMP:20111213T124028Z
+UID:529281fc64f08fcc49a707c6c@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid al-Adha Day 2. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid al-Adha Day 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160914
+DTEND;VALUE=DATE:20160915
+DTSTAMP:20111213T124028Z
+UID:0cb2093fd7063f12bb333217f@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid al-Adha Day 3. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid al-Adha Day 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160915
+DTEND;VALUE=DATE:20160916
+DTSTAMP:20111213T124028Z
+UID:0479d405c85675223c4d0df32@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid al-Adha Day 4. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid al-Adha Day 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161003
+DTEND;VALUE=DATE:20161004
+DTSTAMP:20111213T124028Z
+UID:aeac4d74cc5025c0bad6d23c1@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/india/muharram.php to know more about Muharram. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muharram
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161006
+DTEND;VALUE=DATE:20161007
+DTSTAMP:20111213T124028Z
+UID:56bf649f6ff732b5b7bc5b648@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/armed-forces-day.php to know more about Armed Forces Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Armed Forces Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161212
+DTEND;VALUE=DATE:20161213
+DTSTAMP:20111213T124028Z
+UID:1c3530bf3515855466559e4eb@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/mawlid-an-nabi.php to know more about Mawlid An-Nabi. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mawlid An-Nabi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170107
+DTEND;VALUE=DATE:20170108
+DTSTAMP:20111213T124028Z
+UID:d43369276fdcae08e353b1b25@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/coptic-christmas.php to know more about Coptic Christmas. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coptic Christmas
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170125
+DTEND;VALUE=DATE:20170126
+DTSTAMP:20111213T124028Z
+UID:d4d9543e8436bb419b298c992@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/revolution-day-january-25.php to know more about Revolution Day January 25. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Revolution Day January 25
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170425
+DTEND;VALUE=DATE:20170426
+DTSTAMP:20111213T124028Z
+UID:598a2a2b401e8e98d74f70260@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/sinai-liberation-day.php to know more about Sinai Liberation Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sinai Liberation Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170416
+DTEND;VALUE=DATE:20170417
+DTSTAMP:20111213T124028Z
+UID:2375a0459dfb301ced80e8c32@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/coptic-easter.php to know more about Coptic Easter Sunday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coptic Easter Sunday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170501
+DTEND;VALUE=DATE:20170502
+DTSTAMP:20111213T124028Z
+UID:7fed56b0bdd91520d5830a0e9@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Labor Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170417
+DTEND;VALUE=DATE:20170418
+DTSTAMP:20111213T124028Z
+UID:2279024181132f144aee7a620@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/sham-el-nessim.php to know more about Sham El Nessim (Spring festival). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sham El Nessim (Spring festival)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170626
+DTEND;VALUE=DATE:20170627
+DTSTAMP:20111213T124028Z
+UID:3c9efd23d4eb3ffaf3a7fed19@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about End of Ramadan. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:End of Ramadan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170627
+DTEND;VALUE=DATE:20170628
+DTSTAMP:20111213T124028Z
+UID:c2bc106f27bd1249bb299abfb@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about End of Ramadan Day 2. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:End of Ramadan Day 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170628
+DTEND;VALUE=DATE:20170629
+DTSTAMP:20111213T124028Z
+UID:f2fbc7cb267e7dce238c1df76@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about End of Ramadan Day 3. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:End of Ramadan Day 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170723
+DTEND;VALUE=DATE:20170724
+DTSTAMP:20111213T124028Z
+UID:2b616778e94bcff3c9cbd4fb7@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/revolution-day.php to know more about Revolution Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Revolution Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170902
+DTEND;VALUE=DATE:20170903
+DTSTAMP:20111213T124028Z
+UID:32f44a39a714fb5aea1471742@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid al-Adha. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid al-Adha
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170903
+DTEND;VALUE=DATE:20170904
+DTSTAMP:20111213T124028Z
+UID:178566ec64c8f0d6292da3032@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid al-Adha Day 2. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid al-Adha Day 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170904
+DTEND;VALUE=DATE:20170905
+DTSTAMP:20111213T124028Z
+UID:27616038f53cd5faaa39e6ab0@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid al-Adha Day 3. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid al-Adha Day 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170905
+DTEND;VALUE=DATE:20170906
+DTSTAMP:20111213T124028Z
+UID:97d8dce8fba9f0eaccf56db2a@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid al-Adha Day 4. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid al-Adha Day 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170922
+DTEND;VALUE=DATE:20170923
+DTSTAMP:20111213T124028Z
+UID:303494f996a10dad797574e23@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/india/muharram.php to know more about Muharram. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muharram
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171006
+DTEND;VALUE=DATE:20171007
+DTSTAMP:20111213T124028Z
+UID:6d674acf55ec83092fd4731bc@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/armed-forces-day.php to know more about Armed Forces Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Armed Forces Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171201
+DTEND;VALUE=DATE:20171202
+DTSTAMP:20111213T124028Z
+UID:3d28a2ad3fa34e473d565b438@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/egypt/mawlid-an-nabi.php to know more about Mawlid An-Nabi. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mawlid An-Nabi
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

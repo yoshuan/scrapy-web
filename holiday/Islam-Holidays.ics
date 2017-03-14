@@ -1,0 +1,288 @@
+BEGIN:VCALENDAR
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Islam Holidays
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161212
+DTEND;VALUE=DATE:20161213
+DTSTAMP:20111213T124028Z
+UID:1c3530bf3515855466559e4eb@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/india/milad-un-nabi.php to know more about Milad un Nabi . Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Milad un Nabi 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160505
+DTEND;VALUE=DATE:20160506
+DTSTAMP:20111213T124028Z
+UID:98bb2b5b1e84cd1ccd549ab44@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/islam/lailat-al-miraj.php to know more about Lailat al Miraj. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lailat al Miraj
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160521
+DTEND;VALUE=DATE:20160522
+DTSTAMP:20111213T124028Z
+UID:eed30d9dd49281c97fecd7ef4@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/islam/lailat-al-baraah.php to know more about Lailat al Bara'ah. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lailat al Bara'ah
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160607
+DTEND;VALUE=DATE:20160608
+DTSTAMP:20111213T124028Z
+UID:c83a108f666cbb4d4ce5ce388@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/islam/ramadan.php to know more about Ramadan (start). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ramadan (start)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160702
+DTEND;VALUE=DATE:20160703
+DTSTAMP:20111213T124028Z
+UID:a627ddcaa74b4b4f2c35661d3@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/islam/laylat-al-kadr.php to know more about Laylat al Kadr. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laylat al Kadr
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160707
+DTEND;VALUE=DATE:20160708
+DTSTAMP:20111213T124028Z
+UID:695686f8bb62fd680e0fdc555@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid-al-Fitr (End of Ramadan). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid-al-Fitr (End of Ramadan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160910
+DTEND;VALUE=DATE:20160911
+DTSTAMP:20111213T124028Z
+UID:08424f80531821048ccaf2ae0@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/islam/waqf-al-arafa-hajj.php to know more about Waqf al Arafa - Hajj. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Waqf al Arafa - Hajj
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160913
+DTEND;VALUE=DATE:20160914
+DTSTAMP:20111213T124028Z
+UID:529281fc64f08fcc49a707c6c@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid-al-Adha. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid-al-Adha
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161003
+DTEND;VALUE=DATE:20161004
+DTSTAMP:20111213T124028Z
+UID:aeac4d74cc5025c0bad6d23c1@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/india/muharram.php to know more about Hijra - Islamic New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hijra - Islamic New Year
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161012
+DTEND;VALUE=DATE:20161013
+DTSTAMP:20111213T124028Z
+UID:cf0dfdb6a66b52f2011b458b7@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/india/muharram.php to know more about Day of Ashura / Muharram. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Day of Ashura / Muharram
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171201
+DTEND;VALUE=DATE:20171202
+DTSTAMP:20111213T124028Z
+UID:3d28a2ad3fa34e473d565b438@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/india/milad-un-nabi.php to know more about Milad un Nabi . Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Milad un Nabi 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170425
+DTEND;VALUE=DATE:20170426
+DTSTAMP:20111213T124028Z
+UID:598a2a2b401e8e98d74f70260@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/islam/lailat-al-miraj.php to know more about Lailat al Miraj. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lailat al Miraj
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170513
+DTEND;VALUE=DATE:20170514
+DTSTAMP:20111213T124028Z
+UID:4a2a824a042eb1e74c235ad75@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/islam/lailat-al-baraah.php to know more about Lailat al Bara'ah. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lailat al Bara'ah
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170528
+DTEND;VALUE=DATE:20170529
+DTSTAMP:20111213T124028Z
+UID:d310f63920c1b965c9126e487@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/islam/ramadan.php to know more about Ramadan (start). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ramadan (start)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170622
+DTEND;VALUE=DATE:20170623
+DTSTAMP:20111213T124028Z
+UID:5b476ed0465d7c301d721ccee@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/islam/laylat-al-kadr.php to know more about Laylat al Kadr. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laylat al Kadr
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170627
+DTEND;VALUE=DATE:20170628
+DTSTAMP:20111213T124028Z
+UID:c2bc106f27bd1249bb299abfb@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid-al-Fitr (End of Ramadan). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid-al-Fitr (End of Ramadan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170831
+DTEND;VALUE=DATE:20170901
+DTSTAMP:20111213T124028Z
+UID:df1aae97bf33431d631e90472@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/islam/waqf-al-arafa-hajj.php to know more about Waqf al Arafa - Hajj. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Waqf al Arafa - Hajj
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170904
+DTEND;VALUE=DATE:20170905
+DTSTAMP:20111213T124028Z
+UID:27616038f53cd5faaa39e6ab0@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid-al-Adha. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid-al-Adha
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170922
+DTEND;VALUE=DATE:20170923
+DTSTAMP:20111213T124028Z
+UID:303494f996a10dad797574e23@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/india/muharram.php to know more about Hijra - Islamic New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hijra - Islamic New Year
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171001
+DTEND;VALUE=DATE:20171002
+DTSTAMP:20111213T124028Z
+UID:f55a8505f48c01a836b4c3de4@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit http://calendarlabs.com/holidays/india/muharram.php to know more about Day of Ashura / Muharram. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Day of Ashura / Muharram
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
